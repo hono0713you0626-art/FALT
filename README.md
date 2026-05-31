@@ -1,2 +1,2 @@
-# GAMES-OF-INVESTMENT
+# FALT
 投資シミュレーションゲーム
